@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ahmad Zulfikar Kurniawan</h1>
 <h3 align="center">I am interested in programming languages, because I think it is an interesting thing</h3>
 
-- 🌱 I’m currently learning **Laravel,Python,JavaScript. Sometimes im play CTF :<**
+- 🌱 I’m currently learning **Laravel,Python,JavaScript. Sometimes im play CTF :triangular_flag_on_post:**
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=amdzak&label=Profile%20views&color=0e75b6&style=flat" alt="amdzak" /> </p>
 
